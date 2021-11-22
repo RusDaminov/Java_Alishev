@@ -1,4 +1,4 @@
-package com.example.demo;
+
 
 public class Array_of_Strings {
     public static void main(String[] args) {

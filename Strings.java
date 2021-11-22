@@ -1,4 +1,4 @@
-package com.example.demo;
+
 //ссылочные типы данных
 public class Strings {
     public static void main(String[] args) {

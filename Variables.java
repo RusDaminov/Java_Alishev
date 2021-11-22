@@ -1,4 +1,4 @@
-package com.example.demo;
+
 //примитивные типы данных
 public class Variables {
     public static void main(String[] args) {
