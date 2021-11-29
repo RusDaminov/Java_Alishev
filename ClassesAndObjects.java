@@ -28,13 +28,13 @@ class Person {
     //class can have:
     //1. data (fields)
     //2. actions (methods)
-    String name;
-    int age;
+    private String name;
+    private int age;
 
-    public void setName(String username){
-        if (username.isEmpty())
+    public void setName(String userName){
+        if (userName.isEmpty())
             System.out.println("wrong name");
-        name = username;
+        name = userName;
     }
 
     public String getName(){
